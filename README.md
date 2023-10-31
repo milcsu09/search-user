@@ -11,6 +11,6 @@ https://github.com/ : https://github.com/milcsu09
 
 ``` console
 $ git clone https://github.com/milcsu09/search-user.git
-$ cd ./search-user
+$ cd ./search-user/search-user/
 $ python3 -m pip install -r requirements.txt
 ```
